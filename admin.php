@@ -94,3 +94,5 @@ if ($_SESSION['username'] != "admin") {
 mysqli_close($koneksi);
 ob_end_flush();
  ?>
+
+ <!-- oke kidsssss -->
